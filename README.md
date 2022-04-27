@@ -1,7 +1,7 @@
 # Windows-10-Education-SmartOS-BHYVE-image-dataset
 
 
-Download the image from the bt hash:
+Download the image from the bt magnet:
 
 magnet:?xt=urn:btih:0b37a8f5eef4e739a0677e2910732558b4463fba&dn=win10education-smartos-bhyve-image.tar&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2810%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fwww.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fopentor.org%3A2710%2Fannounce
 
